@@ -1,0 +1,8 @@
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/downloadedFiles/"". @25-03-2023 22:25:51.0672 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/target/downloadedFiles/"". @25-03-2023 22:25:51.0675 PM
+[ReportManager] Attempting to run locally on: "Windows-64 | Google chrome". @25-03-2023 22:25:51.0842 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @25-03-2023 22:25:51.0853 PM
+[ReportManager] Successfully Opened Google chrome. @25-03-2023 22:25:57.0186 PM
+[ReportManager] Target URL: "https://demoblaze.com/" @25-03-2023 22:25:57.0220 PM
+[ReportManager] Initial URL: "data:," @25-03-2023 22:25:57.0468 PM
+[ReportManager] Navigate to url "https://demoblaze.com/". @25-03-2023 22:26:00.0467 PM

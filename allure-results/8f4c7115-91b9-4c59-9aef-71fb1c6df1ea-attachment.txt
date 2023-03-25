@@ -1,0 +1,28 @@
+
+################################################################################################################################################
+Starting Execution:	"1 out of 1" test cases in the current suite
+Test Method:		"tests.SignUpTest.userCanSignUp"
+################################################################################################################################################
+[ReportManager] Click "Sign up". @25-03-2023 22:26:01.0717 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "UserData.json"". @25-03-2023 22:26:01.0735 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UserData.json"". @25-03-2023 22:26:01.0736 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UserData.json"". @25-03-2023 22:26:01.0738 PM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/UserData.json". @25-03-2023 22:26:01.0740 PM
+[ReportManager] Successfully created attachment "Test Data - JSON" @25-03-2023 22:26:02.0481 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UserData.json"". @25-03-2023 22:26:02.0486 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UserData.json"". @25-03-2023 22:26:02.0487 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UserData.json"". @25-03-2023 22:26:08.0406 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UserData.json"". @25-03-2023 22:26:08.0408 PM
+[ReportManager] Click "Username:". @25-03-2023 22:26:09.0006 PM
+[ReportManager] Type "Mayarrrrrrrrrrrrrrrrrrrrr" into "Username:". @25-03-2023 22:26:10.0073 PM
+[ReportManager] Click "Password:". @25-03-2023 22:26:10.0620 PM
+[ReportManager] Type "11223344" into "Password:". @25-03-2023 22:26:11.0299 PM
+[ReportManager] Click "Sign up". @25-03-2023 22:26:11.0642 PM
+[ReportManager] Alert is present @25-03-2023 22:26:12.0201 PM
+[ReportManager] Alert Text is: [This user already exist.] @25-03-2023 22:26:12.0209 PM
+[ReportManager] Get alert text. @25-03-2023 22:26:12.0218 PM
+[ReportManager] Alert is present @25-03-2023 22:26:12.0232 PM
+[ReportManager] Accept alert. @25-03-2023 22:26:12.0250 PM
+[ReportManager] Get text "Log in" from "Log in". @25-03-2023 22:26:12.0466 PM
+[ReportManager] Assertion Passed: The Element located by "By.id: login2" text contains "Log in". @25-03-2023 22:26:14.0480 PM
+[ReportManager] Successfully created attachment "Screenshot - 1679775973860_userCanSignUp_ValidateElementAttribute_passed" @25-03-2023 22:26:14.0537 PM

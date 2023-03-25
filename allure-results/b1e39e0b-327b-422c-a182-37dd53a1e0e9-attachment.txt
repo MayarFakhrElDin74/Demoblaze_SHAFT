@@ -1,0 +1,139 @@
+[INFO ] 2023-03-25 22:25:47.758 [main] ReportManager - 
+################################################################################################################################################
+Detected SHAFT Engine Version: "SHAFT Engine v6.4.20221215"
+################################################################################################################################################
+[INFO ] 2023-03-25 22:25:49.332 [main] ReportManager - Loaded OpenCV "opencv_java455".
+[INFO ] 2023-03-25 22:25:49.631 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 17 ms.
+[INFO ] 2023-03-25 22:25:49.664 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 26 ms.
+[INFO ] 2023-03-25 22:25:49.668 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.669 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.671 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.672 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.673 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.674 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.676 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.677 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.678 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.679 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.681 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.681 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.682 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.684 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.693 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.694 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.696 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.698 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.707 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.708 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.711 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.712 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.714 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.715 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.718 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.720 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.721 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.722 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.724 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.725 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.728 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.730 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.732 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.734 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.737 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.738 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.739 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.740 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.743 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.765 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 21 ms.
+[INFO ] 2023-03-25 22:25:49.765 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.766 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.768 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.770 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.774 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.774 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.776 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.779 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-03-25 22:25:49.808 [main] Utils - [TestNG] Running:
+  C:\Users\lenovo\AppData\Local\Temp\testng-eclipse-1063662164\testng-customsuite.xml
+
+[INFO ] 2023-03-25 22:25:49.903 [main] ReportManager - 
+################################################################################################################################################
+Starting Execution of a Configuration (Setup or Teardown) Method
+Test Method:		"com.shaft.tools.listeners.LogsHelper.setupActivities"
+################################################################################################################################################
+[INFO ] 2023-03-25 22:25:49.952 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2023-03-25 22:25:50.355 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2023-03-25 22:25:51.506 [main] ReportManager - Initializing Important Links...
+[INFO ] 2023-03-25 22:25:51.538 [main] ReportManager - Initializing Custom Properties...
+[INFO ] 2023-03-25 22:25:51.652 [main] ReportManager - 
+################################################################################################################################################
+Starting Execution of a Configuration (Setup or Teardown) Method
+Test Method:		"tests.SignUpTest.startDriver"
+################################################################################################################################################
+[INFO ] 2023-03-25 22:25:51.672 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/downloadedFiles/"".
+[INFO ] 2023-03-25 22:25:51.676 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/target/downloadedFiles/"".
+[INFO ] 2023-03-25 22:25:51.843 [main] ReportManager - Attempting to run locally on: "Windows-64 | Google chrome".
+[INFO ] 2023-03-25 22:25:51.853 [main] ReportManager - Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time...
+[DEBUG] 2023-03-25 22:25:52.847 [main] ResolutionCache - Resolution chrome=111 in cache (valid until 22:36:14 25/03/2023 EET)
+[DEBUG] 2023-03-25 22:25:52.849 [main] ResolutionCache - Resolution chrome111=111.0.5563.64 in cache (valid until 01:25:14 26/03/2023 EET)
+[INFO ] 2023-03-25 22:25:52.851 [main] WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+[DEBUG] 2023-03-25 22:25:52.894 [main] WebDriverManager - Driver chromedriver 111.0.5563.64 found in cache
+[INFO ] 2023-03-25 22:25:52.896 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\lenovo\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+[INFO ] 2023-03-25 22:25:57.186 [main] ReportManager - Successfully Opened Google chrome.
+[INFO ] 2023-03-25 22:25:57.220 [main] ReportManager - Target URL: "https://demoblaze.com/"
+[INFO ] 2023-03-25 22:25:57.469 [main] ReportManager - Initial URL: "data:,"
+[INFO ] 2023-03-25 22:26:00.468 [main] ReportManager - Navigate to url "https://demoblaze.com/".
+[ERROR] 2023-03-25 22:26:00.470 [main] AllureLifecycle - Could not add attachment: no test is running
+[INFO ] 2023-03-25 22:26:00.475 [main] ReportManager - Successfully created attachment "SHAFT Engine Logs - Current Method log: startDriver"
+[INFO ] 2023-03-25 22:26:00.687 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 30 ms.
+[INFO ] 2023-03-25 22:26:00.957 [main] ReportManager - 
+################################################################################################################################################
+Starting Execution:	"1 out of 1" test cases in the current suite
+Test Method:		"tests.SignUpTest.userCanSignUp"
+################################################################################################################################################
+[INFO ] 2023-03-25 22:26:01.733 [main] ReportManager - Click "Sign up".
+[INFO ] 2023-03-25 22:26:01.735 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "UserData.json"".
+[INFO ] 2023-03-25 22:26:01.737 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UserData.json"".
+[INFO ] 2023-03-25 22:26:01.738 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UserData.json"".
+[DEBUG] 2023-03-25 22:26:01.867 [main] cache - Couldn't find template in cache for "codeblock.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 22:26:01.872 [main] cache - TemplateLoader.findTemplateSource("codeblock_en_US.ftl"): Not found
+[DEBUG] 2023-03-25 22:26:01.887 [main] cache - TemplateLoader.findTemplateSource("codeblock_en.ftl"): Not found
+[DEBUG] 2023-03-25 22:26:01.894 [main] cache - TemplateLoader.findTemplateSource("codeblock.ftl"): Found
+[DEBUG] 2023-03-25 22:26:01.894 [main] cache - Loading template for "codeblock.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/markup/codeblock.ftl"
+[DEBUG] 2023-03-25 22:26:02.409 [main] cache - Couldn't find template in cache for "codeblock.json.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 22:26:02.410 [main] cache - TemplateLoader.findTemplateSource("codeblock.json_en_US.ftl"): Not found
+[DEBUG] 2023-03-25 22:26:02.411 [main] cache - TemplateLoader.findTemplateSource("codeblock.json_en.ftl"): Not found
+[DEBUG] 2023-03-25 22:26:02.411 [main] cache - TemplateLoader.findTemplateSource("codeblock.json.ftl"): Found
+[DEBUG] 2023-03-25 22:26:02.411 [main] cache - Loading template for "codeblock.json.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/markup/codeblock.json.ftl"
+[INFO ] 2023-03-25 22:26:02.481 [main] ReportManager - Successfully created attachment "Test Data - JSON"
+[INFO ] 2023-03-25 22:26:02.486 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UserData.json"".
+[INFO ] 2023-03-25 22:26:02.487 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UserData.json"".
+[INFO ] 2023-03-25 22:26:08.406 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UserData.json"".
+[INFO ] 2023-03-25 22:26:08.409 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UserData.json"".
+[INFO ] 2023-03-25 22:26:09.006 [main] ReportManager - Click "Username:".
+[INFO ] 2023-03-25 22:26:10.074 [main] ReportManager - Type "Mayarrrrrrrrrrrrrrrrrrrrr" into "Username:".
+[INFO ] 2023-03-25 22:26:10.620 [main] ReportManager - Click "Password:".
+[INFO ] 2023-03-25 22:26:11.299 [main] ReportManager - Type "11223344" into "Password:".
+[INFO ] 2023-03-25 22:26:11.642 [main] ReportManager - Click "Sign up".
+[INFO ] 2023-03-25 22:26:12.201 [main] ReportManager - Alert is present
+[INFO ] 2023-03-25 22:26:12.215 [main] ReportManager - Alert Text is: [This user already exist.]
+[INFO ] 2023-03-25 22:26:12.218 [main] ReportManager - Get alert text.
+[INFO ] 2023-03-25 22:26:12.232 [main] ReportManager - Alert is present
+[INFO ] 2023-03-25 22:26:12.250 [main] ReportManager - Accept alert.
+[INFO ] 2023-03-25 22:26:12.466 [main] ReportManager - Get text "Log in" from "Log in".
+[INFO ] 2023-03-25 22:26:14.537 [main] ReportManager - Successfully created attachment "Screenshot - 1679775973860_userCanSignUp_ValidateElementAttribute_passed"
+[INFO ] 2023-03-25 22:26:14.544 [main] ReportManager - Successfully created attachment "SHAFT Engine Logs - Current Method log: userCanSignUp"
+[INFO ] 2023-03-25 22:26:14.898 [main] ReportManager - 
+################################################################################################################################################
+Starting Execution of a Configuration (Setup or Teardown) Method
+Test Method:		"com.shaft.tools.listeners.LogsHelper.teardownActivities"
+################################################################################################################################################
+[INFO ] 2023-03-25 22:26:16.357 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2023-03-25 22:26:16.358 [main] ReportManager - Successfully created attachment "SHAFT Engine Logs - Execution log"
+[INFO ] 2023-03-25 22:26:16.359 [main] ReportManager - 
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: "SHAFT Engine v6.4.20221215"
+SHAFT Engine is licensed under the MIT License: [https://github.com/ShaftHQ/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################
+[INFO ] 2023-03-25 22:26:16.360 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2023-03-25 22:26:16.361 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".
